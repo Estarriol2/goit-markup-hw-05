@@ -113,7 +113,7 @@ header {
 }
 
 .logo {
-    padding: 32px 0;
+    padding: 20px 0;
 
     color: var(--secondary-text-color);
     font-family: 'Raleway';
@@ -168,7 +168,7 @@ header span {
     padding-bottom: 32px;
     display: flex;
     margin-left: auto;
-    align-items: baseline;
+    align-items: center;
     
 }
 
